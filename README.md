@@ -2,7 +2,7 @@
 ## Unsupervised Industrial Anomaly Detection using MVTec AD <br>
 
 
-**Inspection of bottle** <br>
+###Inspection of bottle<br>
 ![App Demo (Inspection of bottle)](assets/UAD-bottle.gif)
 
 **Inspection of transistor and evaluation dashboard** <br>
